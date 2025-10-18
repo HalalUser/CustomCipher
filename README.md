@@ -1,2 +1,7 @@
-# CustomCipher
-Custom cipher
+# Custom Cipher MagC.    
+
+This is a never seen before (i think) cipher. 
+This code was made by someone who doesn't know what he is doing. 
+This code was not fully optimized and was vibe coded.
+
+By no means it is secure enough to be used in vital tasks, only for goofing around.
