@@ -1,6 +1,5 @@
 # Custom Cipher MagC.    
 
-This is a never seen before (i think) cipher. 
 This code was made by someone who doesn't know what he is doing. 
 This code was not fully optimized and was vibe coded.
 
